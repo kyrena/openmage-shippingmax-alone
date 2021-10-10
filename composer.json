@@ -35,6 +35,11 @@
         "ext-curl": "*",
         "ext-soap": "*"
     },
+    "replace": {
+        "kyrena/openmage-shippingmax": "*",
+        "openmage-module-fostering/man4x_mondialrelay": "*",
+        "openmage-module-fostering/mondialrelay_pointsrelais": "*"
+    },
     "minimum-stability": "dev",
     "extra": {
         "map": [
