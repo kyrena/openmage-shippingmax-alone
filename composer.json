@@ -37,8 +37,12 @@
     },
     "replace": {
         "kyrena/openmage-shippingmax": "*",
+        "openmage-module-fostering/owebia_shipping_2": "*",
         "openmage-module-fostering/man4x_mondialrelay": "*",
         "openmage-module-fostering/mondialrelay_pointsrelais": "*"
+    },
+    "suggest": {
+        "kyrena/openmage-paymentmax": "*"
     },
     "minimum-stability": "dev",
     "extra": {
